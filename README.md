@@ -64,4 +64,33 @@ Each cipher has its own logic implemented, giving users flexibility to secure th
 ---
 
 ## 📂 Project Structure
+/project-directory │ 
+├── main.cpp // Main program file  
+├── README.md // Project documentation (this file) 
+└── (.exe file) //source file
+
+## 📈 Future Improvements
+
+- Add support for modern ciphers like AES, RSA, etc.
+- Improve user interface with a GUI version.
+- Include saving encrypted messages to a file.
+- Add unit tests for each cipher method.
+
+---
+
+## 🤝 Contributing
+
+Feel free to fork this project and contribute by adding more cipher techniques, improving code structure, or enhancing usability!
+
+---
+
+## 📄 License
+
+This project is open-source and free to use.
+
+---
+
+**Enjoy encrypting and securing your data! 🔒**
+
+
 
